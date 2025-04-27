@@ -20,3 +20,6 @@
 19.	Poté shared folder – na disku C: našeho serveru vytvoříme složku určenou pro sdílení 
 20.	Otevřeme tools -> Active Directory Users and Computers -> rightclick na Users -> New -> Group -> přidat jméno -> následně rozklikneme Users, najdeme skupinu a rozklikneme -> Members -> Add… -> najdeme uživatele podle jména a přidáme
 21.	Následně na složku dáme rightclick -> Properties -> Security -> přidáme naše 2 skupiny (Edit -> Add…), odstraníme skupinu Users (Edit -> Remove), vypneme dědičnost (Advanced -> Disable inheritance) a zkontrolujeme pravidla pro dané skupiny, které přes Edit -> Permissions for jmenoskupiny a dolní okénka (zároveň také přes Properties -> Sharing -> Advanced Sharing -> Permissions můžeme práva donastavit (méně okének))
+
+
+https://www.youtube.com/watch?v=a1iNrxC5dWE
